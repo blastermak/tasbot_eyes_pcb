@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-03-17T18:04:18Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "test_eyes"
+        },
+        "Owner": "Jim Mak <s1090780@student.hsleiden.nl>",
+        "Size": {
+            "X": 136,
+            "Y": 45
+        }
+    }
+}
